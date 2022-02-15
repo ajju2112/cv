@@ -1,0 +1,145 @@
+body {
+  text-align: center;
+}
+
+.top-container {
+  position: relative;
+  background-color: #EAF6F6;
+  padding: 100px 100px 0 100px;
+}
+p{
+  line-height: 2;
+}
+.profilepik {
+  border-radius: 50%;
+  height: 15%;
+  width: 15%;
+}
+
+.skillimg {
+  height: 25%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skillimg1 {
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+body {
+  margin: 0;
+}
+
+.cloud1 {
+  position: absolute;
+  top: 120px;
+  right: 400px;
+}
+
+.cloud2 {
+  position: absolute;
+  top: 380px;
+  left: 400px;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.63rem;
+  padding-top: 50px;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Catamaran', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Catamaran', sans-serif;
+  color: #11999E;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.btn {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 150px auto;
+  line-height: 2;
+  text-align: left;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    width: 5%;
+    border-color: #54BAB9;
+    margin: 100px auto 100px auto;
+
+}
+.middle-container{
+  margin: 100px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.contactmsg{
+  width: 30%;
+  margin: 20px auto 30px auto;
+}
+
+
+
+.myButton {
+	box-shadow: 0 10px 10px -8px #276873;
+	background:linear-gradient(to bottom, #0ab6f5 5%, #03d9fa 100%);
+	background-color:#0ab6f5;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:14px 29px;
+	text-decoration:none;
+	text-shadow:0 0 7px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #03d9fa 5%, #0ab6f5 100%);
+	background-color:#03d9fa;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  background-color:  #54BAB9;
+  padding: 30px 10px 10px 0;
+
+}
+.copyy{
+  margin-bottom: 0;
+  font-size: 12px;
+}
+.footer-link{
+  color: #EAF6F6;
+  margin: 0 10px 10px 10px;
+  text-decoration: none;
+}
+
+.footer-link:hover
+{
+  color: #03d9fa;
+}
